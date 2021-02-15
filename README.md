@@ -7,7 +7,7 @@ Based on the data, returns for the share will be calculated which provides an in
 #Results:
 
 Code was refactored with option to enter which year must be considered for calculation and returns for all the share/company are calculated.
-https://github.com/merinanto/stock-analysis/blob/main/VBA_Challenge.xlsm
+https://github.com/merinanto/stock-analysis/VBA_Challenge.xlsm
 When the scripts ran for first time it’s taking almost 1.8 seconds. But when script was ran again and again execution time is below 1 seconds.
 https://github.com/merinanto/stock-analysis/blob/main/resources/VBA_Challenge_2017.png
 https://github.com/merinanto/stock-analysis/blob/main/resources/VBA_Challenge_2018.png
